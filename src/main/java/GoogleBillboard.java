@@ -12,7 +12,7 @@ public class GoogleBillboard {
 				{
 				break
 				}
-			i=i+1;
+			i++;
 			}
 			ArrayList<Double> arr=new Arraylist<Double>();
 			for(int i = 2; i < e.length() - 9; i++) {
