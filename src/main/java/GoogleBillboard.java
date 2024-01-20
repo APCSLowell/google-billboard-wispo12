@@ -25,7 +25,7 @@ public class GoogleBillboard {
  			 }
 			if(sum==49)
 				{
-				double d=Double.parseDouble(num);
+				double b=Double.parseDouble(num);
 				arr.add(b);
 				}
 			}
