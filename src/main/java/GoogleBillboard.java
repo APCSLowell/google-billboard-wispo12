@@ -29,10 +29,12 @@ public class GoogleBillboard {
 				arr.add(b);
 				}
 			}
-			for(int p=0;p<5;i++)
-				{
-				System.out.println(arr.get(i));
-				}
+		System.out.println(arr.get(0));
+System.out.println(arr.get(1));
+System.out.println(arr.get(2));
+System.out.println(arr.get(3));
+System.out.println(arr.get(4));
+System.out.println(arr.get(4));
 				
 		}
 	
