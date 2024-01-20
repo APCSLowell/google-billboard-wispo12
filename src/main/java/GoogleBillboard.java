@@ -37,7 +37,9 @@ public class GoogleBillboard {
 		}
 	
 
-	
+		public static void main(final String[] args) {
+		System.out.println("Replace this string with your answer!");
+	}
 
 	//Finish this function
 	public boolean isPrime(double d)
