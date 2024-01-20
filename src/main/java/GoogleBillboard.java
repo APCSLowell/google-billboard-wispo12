@@ -44,7 +44,7 @@ System.out.println(arr.get(4));
 	}
 
 	//Finish this function
-	public boolean isPrime(double d)
+	public boolean isPrime(double num1)
 	{
 		if(num1<=1)
 			{
