@@ -39,11 +39,7 @@ System.out.println(arr.get(4));
 		}
 	
 
-		public static void main(final String[] args) {
-		System.out.println("Replace this string with your answer!");
-	}
 
-	//Finish this function
 	public boolean isPrime(double num1)
 	{
 		if(num1<=1)
