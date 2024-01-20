@@ -49,6 +49,7 @@ System.out.println(arr.get(4));
 		if(num1<=1)
 			{
 			return false;
+			}
 		for(int k=2;k<=Math.sqrt(num1);i++)
 			{
 			if(num1%k==0)
